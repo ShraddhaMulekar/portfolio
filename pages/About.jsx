@@ -23,7 +23,7 @@ const About = () => {
         </p>
       </div>
       <div className="img_wrapper">
-        <img src="./public/image_about.png" alt="gif" />
+        <img src="../public/image_about.png" alt="gif" />
       </div>
     </DIV>
   );

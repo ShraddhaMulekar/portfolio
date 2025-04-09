@@ -37,7 +37,7 @@ const Home = () => {
         </button>
       </div>
       <div className="img-div">
-        <img className="img" src="./public/photo.jpg" alt="img" />
+        <img className="img" src="../public/photo.jpg" alt="img" />
       </div>
     </DIV>
   );
