@@ -7,7 +7,7 @@ import styled from "styled-components";
 const Projects = () => {
   const [projects, setProject] = useState([]);
   const fetchProject = async () => {
-    const res = await fetch("./jsonFile/projectData.json");
+    const res = await fetch("/jsonFile/projectData.json");
     const data = await res.json();
     setProject(data);
   };

@@ -6,7 +6,7 @@ const SkillAbilities = () => {
   const [skills, setSkill] = useState([])
 
   const fetchData = async()=>{
-    const res = await fetch `../jsonFile/skill.json`
+    const res = await fetch `/jsonFile/skill.json`
     const data = await res.json()
     // console.log(data)
     setSkill(data)
