@@ -1,0 +1,37 @@
+[
+  {
+    "img": "./public/QR_code.png",
+    "title": "QR Code Converter",
+    "desc": "QR Code Converter is a responsive web application built with React and React Router DOM. It allows users to input text or UPI details and instantly generate a QR code. The app provides an easy-to-use interface, ensuring a seamless experience on both desktop and mobile devices. Perfect for quickly creating and sharing QR codes.",
+    "css_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJDwBd9LoQzBAZigXXxzQ0kKn6TwyrE0Y7Rg&s",
+    "react_img": "https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-4-pack-icons-282599.png?f=webp&w=256",
+    "github_link" : "https://github.com/ShraddhaMulekar/QR-code-React",
+    "deploy_link" : "https://qr-code-react-frontend.vercel.app/"
+
+  },
+  {
+    "img": "./public/croma.png",
+    "title": "Croma_clone",
+    "desc": "Croma Clone is a responsive e-commerce website built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It replicates the functionality of the Croma online store, allowing users to browse products, view details, manage their cart and order. The app is fully responsive, providing an optimal shopping experience across desktop and mobile devices.",
+    "react_img": "https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-4-pack-icons-282599.png?f=webp&w=256",
+    "node_img": "https://cdn-icons-png.flaticon.com/512/5968/5968322.png",
+    "express_img": "https://miro.medium.com/v2/resize:fit:1400/1*zwbpI_WsKDzEjyqoUkwHSQ.png",
+    "mongoDB_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSITHn_TgjDyhdWvePNw0mveDrTUr00GLfv_Q&s",
+    "css_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJDwBd9LoQzBAZigXXxzQ0kKn6TwyrE0Y7Rg&s",
+    "github_link" : "https://github.com/ShraddhaMulekar/Croma",
+    "deploy_link" : "https://croma-clone-five.vercel.app/"
+  },
+  {
+    "img": "./public/social_community.png",
+    "title": "Social Community",
+    "desc": "Social Community is a responsive web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to create and check posts, interact with friends, and engage in real-time chatting. Using Socket.io for live messaging, the app ensures seamless communication between users. The platform is fully responsive, offering a smooth experience on both desktop and mobile devices. Ideal for anyone looking to connect, share, and interact in a social community environment.",
+    "react_img": "https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-4-pack-icons-282599.png?f=webp&w=256",
+    "node_img": "https://cdn-icons-png.flaticon.com/512/5968/5968322.png",
+    "express_img": "https://miro.medium.com/v2/resize:fit:1400/1*zwbpI_WsKDzEjyqoUkwHSQ.png",
+    "mongoDB_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSITHn_TgjDyhdWvePNw0mveDrTUr00GLfv_Q&s",
+    "redux_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb8BOaJS__WDLbw__6UwcZeAOLO5M6eIhgYA&s",
+    "chakra_img": "https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg",
+    "github_link" : "https://github.com/masai-course/shraddha_mulekar_cap12_068/tree/master/codians_social",
+    "deploy_link" : "#"
+  }
+]

@@ -1,0 +1,7 @@
+.navbar {
+  display: fixed;
+  top: 0;
+}
+html {
+  scroll-behavior: smooth;
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBd2rMcfI56SZEenhvautbZl_xUsPSHaktNw&s",
+    "name": "HTML"
+  },
+  {
+    "id": 2,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJDwBd9LoQzBAZigXXxzQ0kKn6TwyrE0Y7Rg&s",
+    "name": "CSS"
+  },
+  {
+    "id": 3,
+    "img": "https://i.pinimg.com/736x/f8/5b/8f/f85b8fbae36a23c52a33504d9f8fc5ab.jpg",
+    "name": "JavaScript"
+  },
+  {
+    "id": 4,
+    "img": "https://cdn-icons-png.flaticon.com/512/5968/5968322.png",
+    "name": "NodeJs"
+  },
+  {
+    "id": 5,
+    "img": "https://miro.medium.com/v2/resize:fit:1400/1*zwbpI_WsKDzEjyqoUkwHSQ.png",
+    "name": "Express"
+  },
+  {
+    "id": 6,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSITHn_TgjDyhdWvePNw0mveDrTUr00GLfv_Q&s",
+    "name": "MongoDB"
+  },
+  {
+    "id": 7,
+    "img": "https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-4-pack-icons-282599.png?f=webp&w=256",
+    "name": "React"
+  },
+  {
+    "id": 8,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb8BOaJS__WDLbw__6UwcZeAOLO5M6eIhgYA&s",
+    "name": "Redux"
+  },
+  {
+    "id": 9,
+    "img": "https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png",
+    "name": "Open AI"
+  },
+  {
+    "id": 10,
+    "img": "https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg",
+    "name": "Chakra-UI"
+  }
+]
